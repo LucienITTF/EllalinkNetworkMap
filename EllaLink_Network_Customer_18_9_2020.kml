@@ -8,7 +8,7 @@
 <Folder><name>Routes</name>
   <Placemark>
 	<name>Lisboa to Spain Stylized</name>
-	<Style><LineStyle><color>ff235523</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#ff235523</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
