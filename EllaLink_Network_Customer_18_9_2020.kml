@@ -18,7 +18,7 @@
   <Placemark>
 	<name>Rua da Praia Forvosa -&gt; Travessa dos Piornais -&gt; Travessa da Escola Hoteleira</name>
 	<description>paralel to existing power line route, 60Kv, 6,6kV and low voltage - 1100m</description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
