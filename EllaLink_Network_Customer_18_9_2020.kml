@@ -6,7 +6,7 @@
 <Folder><name>Portugal</name>
 </Folder>
 <Folder><name>Routes</name>
-  
+  <Placemark>
 	<name>Lisboa to Spain Stylized</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
